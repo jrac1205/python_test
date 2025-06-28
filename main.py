@@ -4,6 +4,8 @@ def in_autotests_we_trust(a, b):
     else:
         print('FAIL')
 
+print("anything")
+
 print("something eles")
 
 in_autotests_we_trust(10, '10')
